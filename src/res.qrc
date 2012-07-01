@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/TranslatePage.qml</file>
+        <file>js/Translator.js</file>
+        <file>js/Serializer.js</file>
+        <file>qml/ViewHeader.qml</file>
+        <file>js/UI.js</file>
+        <file>qml/ListSheet.qml</file>
+    </qresource>
+</RCC>

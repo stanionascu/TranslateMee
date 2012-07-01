@@ -1,0 +1,8 @@
+.moc
+.obj
+bin
+debian
+*.pro.user
+Makefile
+*.deb
+*.changes

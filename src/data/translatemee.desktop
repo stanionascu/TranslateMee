@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=Translate Mee!
+Exec=invoker --single-instance --type=d --splash=/opt/translatemee/share/images/splash.png /opt/translatemee/bin/translatemee
+Icon=/opt/translatemee/share/icons/translatemee.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
